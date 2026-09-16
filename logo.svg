@@ -1,13 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 166" role="img" aria-labelledby="title desc">
   <title id="title">Universal Physio Lab</title>
-  <desc id="desc">Logo représentant le mouvement et l'équilibre.</desc>
-  <rect width="192" height="166" fill="#d9ecec"/>
+  <desc id="desc">Logo Universal Physio Lab représentant le mouvement et l'équilibre.</desc>
+  <rect width="192" height="166" fill="#d8ebeb"/>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <!-- courbe supérieure verte -->
-    <path d="M60 79 C65 91 71 98 81 98 C98 98 94 70 108 70 C122 70 127 94 147 100 C157 103 165 100 170 95" stroke="#84b0a3" stroke-width="4"/>
-    <!-- ligne horizontale et arche gauche en un seul trait, sans décalage -->
-    <path d="M27 107 H40 C45 97 50 92 56 92 C63 92 67 99 68 107 H171" stroke="#2d4d5d" stroke-width="4"/>
+    <!-- mouvement supérieur -->
+    <path d="M60.5 79.2
+             C65.1 90.9 71.1 97.8 81.0 97.8
+             C91.4 97.8 93.1 88.9 96.3 79.3
+             C98.4 73.0 101.5 70.1 106.5 70.1
+             C115.8 70.1 121.7 88.9 134.7 96.4
+             C141.0 100.1 147.0 101.5 152.2 101.5
+             C160.1 101.5 166.0 98.0 170.0 94.7"
+          stroke="#84afa3" stroke-width="4"/>
+    <!-- ligne et arche gauche, raccordées exactement -->
+    <path d="M27 107 H40.2
+             C44.7 97.3 50.0 91.8 56.0 91.8
+             C62.4 91.8 66.5 98.3 68.0 107
+             H171"
+          stroke="#2d4b5a" stroke-width="4"/>
     <!-- courbe inférieure -->
-    <path d="M64 107 C67 124 77 135 95 135 C112 135 122 125 126 107" stroke="#2d4d5d" stroke-width="4"/>
+    <path d="M64.2 107
+             C66.9 123.8 77.1 135.2 95.0 135.2
+             C112.7 135.2 122.5 124.0 126.0 107"
+          stroke="#2d4b5a" stroke-width="4"/>
   </g>
 </svg>
