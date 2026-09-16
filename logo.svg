@@ -1,14 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 166" role="img" aria-labelledby="title desc">
   <title id="title">Universal Physio Lab</title>
-  <desc id="desc">Courbes évoquant le mouvement et l'équilibre.</desc>
+  <desc id="desc">Logo représentant le mouvement et l'équilibre.</desc>
   <rect width="192" height="166" fill="#d9ecec"/>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <!-- courbe supérieure -->
+    <!-- courbe supérieure verte -->
     <path d="M60 79 C65 91 71 98 81 98 C98 98 94 70 108 70 C122 70 127 94 147 100 C157 103 165 100 170 95" stroke="#84b0a3" stroke-width="4"/>
-    <!-- petite arche gauche, parfaitement raccordée à la ligne -->
-    <path d="M40 107 C45 97 50 92 56 92 C63 92 67 99 68 107" stroke="#2d4d5d" stroke-width="4"/>
-    <!-- ligne d'équilibre -->
-    <path d="M27 107 L171 107" stroke="#2d4d5d" stroke-width="4"/>
+    <!-- ligne horizontale et arche gauche en un seul trait, sans décalage -->
+    <path d="M27 107 H40 C45 97 50 92 56 92 C63 92 67 99 68 107 H171" stroke="#2d4d5d" stroke-width="4"/>
     <!-- courbe inférieure -->
     <path d="M64 107 C67 124 77 135 95 135 C112 135 122 125 126 107" stroke="#2d4d5d" stroke-width="4"/>
   </g>
