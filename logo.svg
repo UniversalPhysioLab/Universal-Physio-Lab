@@ -1,11 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 166" role="img" aria-labelledby="title desc">
   <title id="title">Universal Physio Lab</title>
-  <desc id="desc">Logo représentant une ligne horizontale traversée par deux courbes, évoquant le mouvement et l'équilibre.</desc>
-  <rect width="192" height="166" fill="#D8EBEB"/>
-  <g transform="translate(0,166) scale(0.1,-0.1)" fill="#2C4552">
-    <path d="M441 712 c-20 -20 -45 -50 -57 -66 -16 -24 -30 -31 -70 -35 -31 -4 -49 -11 -49 -19 0 -10 42 -14 194 -15 l195 -2 12 -48 c42 -165 211 -268 366 -223 105 30 173 100 208 213 l18 58 238 5 c149 3 239 9 239 15 0 7 -186 11 -533 13 l-532 2 -16 40 c-25 62 -75 100 -131 100 -39 0 -50 -5 -82 -38z m129 -2 c20 -10 60 -70 60 -89 0 -7 -36 -11 -115 -11 -63 0 -115 3 -115 8 0 4 20 29 43 55 46 49 84 60 127 37z m649 -152 c-2 -69 -66 -162 -136 -201 -102 -55 -209 -43 -296 33 -47 42 -97 127 -97 167 l0 23 265 0 265 0 -1 -22z"/>
-  </g>
-  <g transform="translate(0,166) scale(0.1,-0.1)" fill="#84ADA1">
-    <path d="M1022 957 c-31 -17 -44 -40 -77 -126 -36 -96 -62 -121 -125 -121 -61 0 -112 36 -160 113 -33 53 -52 68 -64 48 -7 -10 62 -118 95 -148 56 -51 135 -66 196 -37 40 20 57 42 85 116 35 93 49 116 79 128 46 19 78 -1 184 -115 104 -112 160 -156 230 -176 25 -7 45 -17 45 -21 0 -4 14 -8 31 -8 17 0 28 4 24 10 -3 6 4 10 17 10 27 0 122 43 133 60 17 28 -14 30 -65 3 -126 -65 -244 -20 -391 151 -39 44 -87 91 -107 103 -41 25 -95 29 -130 10z"/>
+  <desc id="desc">Courbes évoquant le mouvement et l'équilibre.</desc>
+  <rect width="192" height="166" fill="#d9ecec"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- courbe supérieure -->
+    <path d="M60 79 C65 91 71 98 81 98 C98 98 94 70 108 70 C122 70 127 94 147 100 C157 103 165 100 170 95" stroke="#84b0a3" stroke-width="4"/>
+    <!-- petite arche gauche -->
+    <path d="M40 106 C45 96 50 91 56 91 C63 91 67 98 68 106" stroke="#2d4d5d" stroke-width="4"/>
+    <!-- ligne d'équilibre -->
+    <path d="M27 107 L171 107" stroke="#2d4d5d" stroke-width="4"/>
+    <!-- courbe inférieure -->
+    <path d="M64 107 C67 124 77 135 95 135 C112 135 122 125 126 107" stroke="#2d4d5d" stroke-width="4"/>
   </g>
 </svg>
