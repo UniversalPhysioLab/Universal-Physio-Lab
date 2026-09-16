@@ -5,8 +5,8 @@
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
     <!-- courbe supérieure -->
     <path d="M60 79 C65 91 71 98 81 98 C98 98 94 70 108 70 C122 70 127 94 147 100 C157 103 165 100 170 95" stroke="#84b0a3" stroke-width="4"/>
-    <!-- petite arche gauche -->
-    <path d="M40 106 C45 96 50 91 56 91 C63 91 67 98 68 106" stroke="#2d4d5d" stroke-width="4"/>
+    <!-- petite arche gauche, parfaitement raccordée à la ligne -->
+    <path d="M40 107 C45 97 50 92 56 92 C63 92 67 99 68 107" stroke="#2d4d5d" stroke-width="4"/>
     <!-- ligne d'équilibre -->
     <path d="M27 107 L171 107" stroke="#2d4d5d" stroke-width="4"/>
     <!-- courbe inférieure -->
